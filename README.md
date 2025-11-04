@@ -17,7 +17,7 @@ Start here and work your way through each section. Each module builds on the pre
 - [Module 1.5: Input Statement & User Interaction](/Basics/05-input-statement.md)
 
 ### **SECTION 2: OPERATORS**
-- [Module 2.1: All Operators in Python](06-operators.md)
+- [Module 2.1: Operators in Python](/Basics/06-operators.md)
 
 ### **SECTION 3: CONTROL FLOW**
 - [Module 3.1: If-Else Conditional Statements](07-if-else-conditionals.md)
