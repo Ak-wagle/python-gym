@@ -14,7 +14,7 @@ Start here and work your way through each section. Each module builds on the pre
 - [Module 1.2: Variables & Data Types](/Basics/02-variables-datatypes.md)
 - [Module 1.3: Type Casting & Constants](/Basics/03-type-casting-constants.md)
 - [Module 1.4: Comments, Escape Sequences & Print Customization](/Basics/04-comments-escape-print.md)
-- [Module 1.5: Input Statement & User Interaction](05-input-statement.md)
+- [Module 1.5: Input Statement & User Interaction](/Basics/05-input-statement.md)
 
 ### **SECTION 2: OPERATORS**
 - [Module 2.1: All Operators in Python](06-operators.md)
