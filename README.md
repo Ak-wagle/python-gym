@@ -20,8 +20,8 @@ Start here and work your way through each section. Each module builds on the pre
 - [Module 2.1: Operators in Python](/Basics/06-operators.md)
 
 ### **SECTION 3: CONTROL FLOW**
-- [Module 3.1: If-Else Conditional Statements](07-if-else-conditionals.md)
-- [Module 3.2: Match-Case Statements](08-match-case.md)
+- [Module 3.1: If-Else Conditional Statements](/Basics/07-if-else-conditionals.md)
+- [Module 3.2: Match-Case Statements](/Basics/08-match-case.md)
 
 ### **SECTION 4: LOOPS**
 - [Module 4.1: For Loops & Iteration](09-for-loops.md)
