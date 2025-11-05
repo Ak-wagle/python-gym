@@ -29,12 +29,12 @@ Start here and work your way through each section. Each module builds on the pre
 - [Module 4.3: Break, Continue & Pass](/Basics/11-loop-control.md)
 
 ### **SECTION 5: DATA STRUCTURES**
-- [Module 5.1: Strings (Advanced)](12-strings-advanced.md)
-- [Module 5.2: Lists](13-lists.md)
-- [Module 5.3: Tuples](14-tuples.md)
-- [Module 5.4: Dictionaries](15-dictionaries.md)
-- [Module 5.5: Sets](16-sets.md)
-- [Module 5.6: Slicing Operations](17-slicing.md)
+- [Module 5.1: Strings](/Basics/12-strings.md)
+- [Module 5.2: Lists](/Basics/13-lists.md)
+- [Module 5.3: Tuples](/Basics/14-tuples.md)
+- [Module 5.4: Dictionaries](/Basics/15-dictionaries.md)
+- [Module 5.5: Sets](/Basics/16-sets.md)
+- [Module 5.6: Slicing Operations](/Basics/17-slicing.md)
 
 ### **SECTION 6: FUNCTIONS**
 - [Module 6.1: Defining & Calling Functions](18-functions-basics.md)
