@@ -37,10 +37,10 @@ Start here and work your way through each section. Each module builds on the pre
 - [Module 5.6: Slicing Operations](/Basics/17-slicing.md)
 
 ### **SECTION 6: FUNCTIONS**
-- [Module 6.1: Defining & Calling Functions](18-functions-basics.md)
-- [Module 6.2: Function Arguments](19-function-arguments.md)
-- [Module 6.3: Scope - Global vs. Local](20-scope-global-local.md)
-- [Module 6.4: Recursion & Lambda Functions](21-recursion-lambda.md)
+- [Module 6.1: Defining & Calling Functions](/Basics/18-functions.md)
+- [Module 6.2: Function Arguments](/Basics/19-function-arguments.md)
+- [Module 6.3: Scope - Global vs. Local](/Basics/20-scope-global-local.md)
+- [Module 6.4: Recursion & Lambda Functions](/Basics/21-recursion-lambda.md)
 
 ### **SECTION 7: MODULES & LIBRARIES**
 - [Module 7.1: Built-in Modules](22-builtin-modules.md)
