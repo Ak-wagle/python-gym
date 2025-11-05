@@ -43,9 +43,9 @@ Start here and work your way through each section. Each module builds on the pre
 - [Module 6.4: Recursion & Lambda Functions](/Basics/21-recursion-lambda.md)
 
 ### **SECTION 7: MODULES & LIBRARIES**
-- [Module 7.1: Built-in Modules](22-builtin-modules.md)
-- [Module 7.2: pip & External Libraries](23-pip-external-libraries.md)
-- [Module 7.3: Creating Your Own Module](24-creating-modules.md)
+- [Module 7.1: Built-in Modules](/Basics/22-builtin-modules.md)
+- [Module 7.2: pip & External Libraries](/Basics/23-pip-external-libraries.md)
+- [Module 7.3: Creating Your Own Module](/Basics/24-creating-modules.md)
 
 ### **SECTION 8: FILE I/O**
 - [Module 8.1: File Operations](25-file-handling.md)
