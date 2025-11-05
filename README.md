@@ -45,41 +45,27 @@ Start here and work your way through each section. Each module builds on the pre
 ### **SECTION 7: MODULES & LIBRARIES**
 - [Module 7.1: Built-in Modules](/Basics/22-builtin-modules.md)
 - [Module 7.2: pip & External Libraries](/Basics/23-pip-external-libraries.md)
-- [Module 7.3: Creating Your Own Module](/Basics/24-creating-modules.md)
+- [Module 7.3: Creating Your Own Module](/Basics/24-creating-modules.md) [TODO]
 
 ### **SECTION 8: FILE I/O**
-- [Module 8.1: File Operations](25-file-handling.md)
-- [Module 8.2: CSV & JSON](26-csv-json.md)
+- [Module 8.1: File Operations](/Basics/25-file-handling.md)
 
 ### **SECTION 9: ERROR HANDLING**
-- [Module 9.1: Exceptions & Try-Except](27-exceptions-error-handling.md)
+- [Module 9.1: Exceptions & Try-Except](/Basics/26-error-handling.md)
 
 ### **SECTION 10: ADVANCED CONCEPTS**
-- [Module 10.1: List Comprehension & Generators](28-list-comprehension-generators.md)
-- [Module 10.2: Map, Filter & Reduce](29-map-filter-reduce.md)
-- [Module 10.3: Decorators](30-decorators.md)
+- [Module 10.1: List Comprehension & Generators](27-list-comprehension-generators.md) [TODO]
+- [Module 10.2: Map, Filter & Reduce](28-map-filter-reduce.md) [TODO]
+- [Module 10.3: Decorators](29-decorators.md) [TODO]
 
-### **SECTION 11: CAPSTONE PROJECTS**
-- [Project 1: Personal Task Manager](project-1-task-manager.md)
-- [Project 2: Quiz Application](project-2-quiz-app.md)
-- [Project 3: Budget Tracker](project-3-budget-tracker.md)
+### **SECTION 11: CAPSTONE PROJECTS** [TODO]
 
-### **SECTION 12: WHAT'S NEXT?**
-- [Beyond Basics: OOP, APIs, and ROS2](31-next-steps.md)
-
----
 
 
 ## Resources
 
 - **Python Official Docs**: https://docs.python.org/3/
 - **YouTube Playlist**: https://youtube.com/playlist?list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3
-
----
-
-This isn't a reference manual - it's a **learning path**. We've included crazy examples, bad puns, and practical tasks because learning should be fun! Some examples are deliberately silly because you remember them better that way.
-
-**Now, let's get started! Head to Module 1.1: Hello World**
 
 ---
 
