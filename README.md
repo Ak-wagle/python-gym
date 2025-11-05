@@ -24,9 +24,9 @@ Start here and work your way through each section. Each module builds on the pre
 - [Module 3.2: Match-Case Statements](/Basics/08-match-case.md)
 
 ### **SECTION 4: LOOPS**
-- [Module 4.1: For Loops & Iteration](09-for-loops.md)
-- [Module 4.2: While Loops](10-while-loops.md)
-- [Module 4.3: Break, Continue & Pass](11-loop-control.md)
+- [Module 4.1: For Loops & Iteration](/Basics/09-for-loops.md)
+- [Module 4.2: While Loops](/Basics/10-while-loops.md)
+- [Module 4.3: Break, Continue & Pass](/Basics/11-loop-control.md)
 
 ### **SECTION 5: DATA STRUCTURES**
 - [Module 5.1: Strings (Advanced)](12-strings-advanced.md)
