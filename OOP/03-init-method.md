@@ -359,4 +359,4 @@ Then create 3 course objects:
 
 ## Next Module
 
-Coming Next: You now understand HOW `__init__` works. But what exactly is `self` and why is it so important? [04-self-explained.md](./04-self-explained.md)
+Coming Next: You now understand HOW `__init__` works. But what exactly is `self` and why is it so important? [04-self.md](./04-self.md)
