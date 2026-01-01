@@ -308,7 +308,7 @@ def __init__(self, name, roll_number):
 
 ### The Complete Flow
 
-![__new__ vs __init__](image-2.png)
+![__new__ vs __init__](../Media/image-2.png)
 ```
 student = Student("Raj", "CS101")
        ↓
